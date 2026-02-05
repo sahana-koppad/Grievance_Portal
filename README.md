@@ -1,4 +1,3 @@
-<img width="1561" height="617" alt="{EB95B491-F17F-4854-BFE7-0737D7E4A18E}" src="https://github.com/user-attachments/assets/0a126678-5c0c-4705-9128-1bdc52ac5934" />
 # 🎓 College Grievance and Resolution Management System
 
 A complete **Full Stack Web Application** designed to digitally manage student grievances in colleges.
