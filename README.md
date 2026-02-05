@@ -103,7 +103,7 @@ The system uses a MySQL database named **`grivup`**.
 * Status and responses are linked using grievance ID
 
 
-## 🔄 System Workflow
+##  System Workflow
 
 The system flow diagram explains how data moves through the application from grievance submission to resolution.
 
@@ -118,7 +118,7 @@ The system flow diagram explains how data moves through the application from gri
 7. Student gives feedback after resolution
 
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 college-grievance-portal/
@@ -149,13 +149,13 @@ college-grievance-portal/
 
 ---
 
-## ⚙️ Installation and Setup
+##  Installation and Setup
 
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/college-grievance-portal.git
-cd college-grievance-portal
+git clone https://github.com/sahana-koppad/Grievance_Portal.git
+cd Grievance_Portal
 ```
 
 ### Step 2: Backend Setup
@@ -188,7 +188,7 @@ mysql -u root -p grivup < Dump20250106.sql
 
 ---
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 Create a `.env` file in backend folder:
 
@@ -200,7 +200,7 @@ DB_NAME=grivup
 PORT=5000
 ```
 
-## 📌 Future Enhancements
+## Future Enhancements
 
 * Mobile application
 * SMS notifications
@@ -209,9 +209,7 @@ PORT=5000
 * Cloud deployment
 
 
-## 📄 License
+## License
 
 This project is developed for academic and learning purposes.
 
-
-Just tell me 👍
